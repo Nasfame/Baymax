@@ -1,4 +1,3 @@
-gTTS==2.2.3
 pipwin==0.5.1
 playsound==1.3.0
 SpeechRecognition==3.8.1
